@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
 
-# Classses:
+# Classes:
 
 :PublicParking rdf:type  owl:Class.
 
